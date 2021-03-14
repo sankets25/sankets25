@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Sanket Salunke
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my Portfolio Website using React JS and basic Sudoku game using Python 
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on ReactJS and pygame
